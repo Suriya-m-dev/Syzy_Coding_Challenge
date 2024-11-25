@@ -1,0 +1,13 @@
+.name{
+    font-weight: bold;
+    font-size: 25px;
+}
+.description{
+    font-style: italic;
+    font-size: 20px;
+}
+.price{
+    font-weight: 600;
+    color: rgb(223, 66, 26);
+    font-size: 25px;
+}
